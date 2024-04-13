@@ -14,6 +14,7 @@ We have implemented Quantum Approximate Optimization Algorithm using **Q#** and 
   * *qaoa_resource_estimator_graphs.ipynb* - Notebook for resource estimation graphs.
   * *qaoa_resource_estimator.ipynb* - Notebook for data using the **Resource Estimator**.
 * `graphs` - has all the graphs we generated in the *PNG* format.
+* `presentation` - has the presentation we used for the video submission.
 
 ### Files
 
