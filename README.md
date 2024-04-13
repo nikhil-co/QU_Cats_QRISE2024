@@ -40,3 +40,7 @@ Even though we have implemented QAOA for the Number Partitioning Problem, we hav
 * For resource estimation notebooks you need to have ```qsharp_widgets``` installed.
 
 > We have provided requirements.txt file consisting of all packages you require to run the code we have provided.
+
+### Video Submission
+
+We have also made a video submission for our project which can be found here - [YouTube](https://youtu.be/rZ0GuIRlk6U)
