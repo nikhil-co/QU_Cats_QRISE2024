@@ -13,11 +13,9 @@ import matplotlib.pyplot as plt
 # Libraries for Model Formulation
 from docplex.mp.model import Model
 from scipy.optimize import minimize
-from collections import Counter
 
 # Qiskit Imports
 from qiskit_optimization.converters import QuadraticProgramToQubo
-from qiskit.visualization import plot_histogram
 from qiskit_optimization.translators import from_docplex_mp
 
 # Library for circuit simulation
